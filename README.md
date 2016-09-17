@@ -89,7 +89,3 @@ In the docs we'll try to explain both general concepts of MEAN components and gi
 
 ## Live Example
 Browse the live MEAN.JS example on [http://meanjs.herokuapp.com](http://meanjs.herokuapp.com).
-
-## Credits
-Inspired by the great work of [Madhusudhan Srinivasa](https://github.com/madhums/)
-The MEAN name was coined by [Valeri Karpov](http://blog.mongodb.org/post/49262866911/the-mean-stack-mongodb-expressjs-angularjs-and)
